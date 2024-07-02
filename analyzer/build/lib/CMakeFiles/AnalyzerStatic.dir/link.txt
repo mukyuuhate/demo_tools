@@ -1,0 +1,2 @@
+/home/mukyuuhate/BufferOverflow_RangeAnalysis/LLVM-10.0.0/build/bin/llvm-ar qc libAnalyzerStatic.a CMakeFiles/AnalyzerObj.dir/Common.cc.o CMakeFiles/AnalyzerObj.dir/Analyzer.cc.o CMakeFiles/AnalyzerObj.dir/CallGraph.cc.o CMakeFiles/AnalyzerObj.dir/FindErrorFuncs.cc.o
+/home/mukyuuhate/BufferOverflow_RangeAnalysis/LLVM-10.0.0/build/bin/llvm-ranlib libAnalyzerStatic.a
